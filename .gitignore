@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+output/
+/tmp/
+spark_checkpoints/
+*.parquet
+.DS_Store
+.idea/
+.vscode/
+*.log
